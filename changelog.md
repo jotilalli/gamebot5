@@ -1,6 +1,7 @@
 # Project Changelog
 >Template: YYYY-MM-DD HH:MM - Comment
 
+2016-02-12 21:45 - Bot Piece Summary - completed
 2016-02-12 19:50 - Fixed spacing/tab in assembly pages.
 2016-02-12 17:44 - added title to assembly page
 2016-02-12 17:24 - Favicon added.
